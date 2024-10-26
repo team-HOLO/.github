@@ -26,32 +26,38 @@ HOLO는 1인 가구를 대상으로 한 인테리어 쇼핑몰입니다. 1인 �
 ## 일반 유저
 
 ### 회원 가입
-![image](https://github.com/user-attachments/assets/7c254ae9-1f90-4e73-9402-8902613af935)
+![1](https://github.com/user-attachments/assets/d76a169e-5c90-47cf-bc8d-e4ee34addf96)
+
 
 ### 장바구니
-![image](https://github.com/user-attachments/assets/b10da188-e946-4e5a-baca-4e3fbb3f5b5e)
+![2](https://github.com/user-attachments/assets/5ddd2a27-43d0-4bf4-8220-3063671bb07d)
+
 
 ### 상품 구매
-![image](https://github.com/user-attachments/assets/c709969e-8961-4be4-8836-7888e1628f21)
+![3](https://github.com/user-attachments/assets/76d79395-7cdb-4ae1-903e-5168e4af9539)
+
 
 ### Oauth 이용 로그인
-![image](https://github.com/user-attachments/assets/c11de9c6-f9b8-405b-8b51-88e302badfd9)
+![4](https://github.com/user-attachments/assets/2dad9661-2a74-4387-9c98-f5962dccfc03)
+
 
 ### 마이페이지
-![image](https://github.com/user-attachments/assets/89d894b0-8215-4044-8343-1b0f843b359b)
+![5](https://github.com/user-attachments/assets/a395c831-f415-45c9-b113-1381cbbb0f6e)
+
 
 ## 관리자
 ### 상품 관리
-![image](https://github.com/user-attachments/assets/79f1d990-f9a9-4200-9ffe-f6a100caf456)
+![6](https://github.com/user-attachments/assets/f57b3726-7239-4212-8d20-d92bd19efe1d)
 
 ### 카테고리 관리
-![image](https://github.com/user-attachments/assets/8c1bd814-a736-408b-b19a-eced853ec766)
+![7](https://github.com/user-attachments/assets/047dc4d1-fabf-42df-b046-dac54836591d)
+
 
 ### 주문 관리
-![image](https://github.com/user-attachments/assets/9febcc65-94b3-43c4-88fc-dcd9da5cb941)
+![8](https://github.com/user-attachments/assets/9bde41b4-4d97-4691-8416-607cbb24aafc)
 
 ### 접근 제한
-![image](https://github.com/user-attachments/assets/f793a30b-001b-4d8e-94fb-87ab452ee07f)
+![9](https://github.com/user-attachments/assets/75f8d65c-0f1e-4d21-801d-4c5d919367f0)
 
 - 관리자 권한 없이 Admin 페이지에 접근한 경우: 권한 안내 페이지로 이동
 - 유저 권한 없이 MyPage에 접근한 경우: 로그인 페이지로 이동
