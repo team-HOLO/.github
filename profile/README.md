@@ -64,8 +64,7 @@ HOLO는 1인 가구를 대상으로 한 인테리어 쇼핑몰입니다. 1인 �
 ## 디스코드 봇
 - 주문 생성, 수정, 취소 시 관리자에게 실시간 Discord 알림 전송
 - CS 대응을 위한 실시간 모니터링 기능
-![image](https://github.com/user-attachments/assets/70281f12-4ba1-457a-8cf9-9d3af0cf9f2d)
-![image](https://github.com/user-attachments/assets/0772f970-36ee-4bd8-b7ee-9be994abb51b)
+![주문 알림](https://github.com/user-attachments/assets/646b54b3-34e3-415a-ae2a-c3ad704efb9a)
 
 
 
