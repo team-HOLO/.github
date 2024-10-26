@@ -2,8 +2,15 @@
 ## 서비스 소개
 ![image](https://github.com/user-attachments/assets/76718aa2-1441-45d5-b10a-09777b6bcbba)
 
-HOLO는 1인 가구를 대상으로 한 인테리어 쇼핑몰입니다. 1인 가구의 라이프 스타일과 딱 맞는 인테리어 제품을 쉽고 빠르게 구매할 수 있습니다!  
+HOLO는 1인 가구를 대상으로 한 인테리어 쇼핑몰입니다.   
+1인 가구의 라이프 스타일과 딱 맞는 인테리어 제품을 쉽고 빠르게 구매할 수 있습니다!  
 > **"혼자만의 공간을 나만의 감성으로"** HOLO는 1인 가구를 위한 맞춤형 인테리어 경험을 제공합니다.
+
+---
+### HOLO는 엘리스 클라우드 트랙 4기에서 진행한 2차 프로젝트로, 실제 쇼핑몰이 아닙니다.  
+### 모든 기능은 학습 목적으로 구현되었습니다.
+---
+
 
 # Links
 프론트엔드 배포 상태: [![Netlify Status](https://api.netlify.com/api/v1/badges/c94a2a65-b5d9-4f7a-b9ba-bfcd8080ee16/deploy-status)](https://app.netlify.com/sites/elice-holo/deploys)  
