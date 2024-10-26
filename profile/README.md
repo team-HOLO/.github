@@ -108,4 +108,12 @@ HOLO는 1인 가구를 대상으로 한 인테리어 쇼핑몰입니다. 1인 �
 # API 문서
 - [Swagger-UI](https://elice-holo.shop/swagger-ui/index.html)
 
-# [트러블슈팅](https://www.notion.so/elice-track/7d0239a270ed4bac8b55f17b0c511fe7?v=35b8497c9c3042a9b1ed863eaaefdb47&pvs=4)
+# 트러블 슈팅
+1. 배포 환경에서의 CORS 문제
+![스크린샷 2024-10-26 오후 12 06 13](https://github.com/user-attachments/assets/d2d57f27-8344-4677-b437-f392797cb987)
+![스크린샷 2024-10-26 오후 12 06 18](https://github.com/user-attachments/assets/2a19d74b-6ffc-4bd5-b8d3-94173323610a)
+
+  
+2. 역직렬화 오류
+![스크린샷 2024-10-26 오후 12 06 23](https://github.com/user-attachments/assets/dcb97278-ccf4-4e0a-bd05-6453cb6266b4)
+![스크린샷 2024-10-26 오후 12 06 30](https://github.com/user-attachments/assets/52854f98-5bdd-4eaf-a449-a82f7ea2ae44)
